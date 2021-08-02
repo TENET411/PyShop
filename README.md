@@ -1,1 +1,1 @@
-# -PyShop
+# PyShop
